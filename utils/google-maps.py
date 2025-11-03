@@ -2,11 +2,8 @@ import re
 import pandas as pd
 from playwright.sync_api import sync_playwright, expect
 
-# coffee_chains = ["Starbucks", "Highlands+Coffee", "Phuc+Long+Coffee"]
-# cities = ["Hanoi", "Ho+Chi+Minh+City"]
-
 coffee_chains = ["Starbucks", "Highlands+Coffee", "Phuc+Long+Coffee"]
-cities = ["Ho+Chi+Minh+City"]
+cities = ["Hanoi", "Ho+Chi+Minh+City"]
 
 with sync_playwright() as p:
     browser = p.firefox.launch(headless=True)
