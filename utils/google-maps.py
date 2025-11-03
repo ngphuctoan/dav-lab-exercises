@@ -2,11 +2,14 @@ import re
 import pandas as pd
 from playwright.sync_api import sync_playwright, expect
 
+# coffee_chains = ["Starbucks", "Highlands+Coffee", "Phuc+Long+Coffee"]
+# cities = ["Hanoi", "Ho+Chi+Minh+City"]
+
 coffee_chains = ["Starbucks", "Highlands+Coffee", "Phuc+Long+Coffee"]
-cities = ["Hanoi", "Ho+Chi+Minh+City"]
+cities = ["Ho+Chi+Minh+City"]
 
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=True)
+    browser = p.firefox.launch(headless=True)
     page = browser.new_page()
 
     for city in cities:
@@ -20,21 +23,21 @@ with sync_playwright() as p:
 
             sidebar = page.locator("[role=feed]")
             zoom_in = page.locator("#widget-zoom-in")
-            about_tab = page.locator("[role=tab]:has-text('About')")
+            about_tab = page.locator("[role=tab][aria-label^=About]")
             info_section = page.locator(".iNvpkb:not(.XJynsc)")
             title = page.locator(".lfPIob")
 
             prev_height = 0
-            for _ in range(10):
+            for _ in range(60):
                 sidebar.evaluate("(el) => (el.scrollTop = el.scrollHeight)")
-                page.wait_for_timeout(3_000)
 
                 height = sidebar.evaluate("(el) => el.scrollHeight")
                 if height <= prev_height:
-                    break
-                prev_height = height
-
-            zoom_in.click(click_count=10)
+                    try:
+                        page.locator(':has-text("You\'ve reached the end of the list.")').wait_for(state="visible", timeout=1_000)
+                        break
+                    finally:
+                        continue
 
             cards = page.locator(".Nv2PK")
             total = cards.count()
@@ -42,16 +45,19 @@ with sync_playwright() as p:
             print(f"Scroll limit reached; Found {total} results!")
 
             for i in range(total):
+                if zoom_in.is_enabled():
+                    zoom_in.click(click_count=10)
+
                 old_url = page.url
                 card = cards.nth(i)
 
                 name = card.locator(".qBF1Pd").first.text_content().strip()
 
-                for _ in range(100):
+                for _ in range(10):
                     try:
-                        card.click()
+                        card.click(timeout=0)
                         expect(page).not_to_have_url(old_url, timeout=100)
-                        expect(about_tab).to_have_attribute("aria-selected", "false")
+                        expect(about_tab).to_have_attribute("aria-selected", "false", timeout=100)
                         break
                     except Exception:
                         continue
@@ -67,13 +73,19 @@ with sync_playwright() as p:
                         avg_rating = float(match.group(1))
                         num_of_reviews = int(match.group(2).replace(",", ""))
 
-                address = page.locator("button[aria-label^=Address]").first.text_content().strip()[1:]
-                phone = page.locator("button[aria-label^=Phone]").first.text_content().strip()[1:]
+                try:
+                    address = page.locator("button[aria-label^=Address]").first.text_content().strip()[1:]
+                except Exception:
+                    address = None
+                try:
+                    phone = page.locator("button[aria-label^=Phone]").first.text_content(timeout=100).strip()[1:]
+                except Exception:
+                    phone = None
 
-                for _ in range(100):
+                for _ in range(10):
                     try:
-                        about_tab.click()
-                        expect(info_section.first).to_be_visible(timeout=100)
+                        about_tab.click(timeout=0)
+                        info_section.first.wait_for(state="visible", timeout=100)
                         break
                     except Exception:
                         continue
