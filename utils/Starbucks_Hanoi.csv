@@ -1,0 +1,619 @@
+name,address,lat,long,phone,avg_rating,num_of_reviews,info
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Wheelchair accessible entrance
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Wheelchair accessible parking lot
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Wheelchair accessible restroom
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Wheelchair accessible seating
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Identifies as women-owned
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Outdoor seating
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,No-contact delivery
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Delivery
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Takeout
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Dine-in
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Great beer selection
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Great cocktails
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Great coffee
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Great dessert
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Great tea selection
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Great wine list
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Lunch
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Dinner
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Solo dining
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Alcohol
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,All you can eat
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Beer
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Cocktails
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Coffee
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Halal food
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Hard liquor
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Late-night food
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Organic dishes
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Private dining room
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Quick bite
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Small plates
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Vegan options
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Vegetarian options
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Wine
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Breakfast
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Brunch
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Lunch
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Dinner
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Catering
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Counter service
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Dessert
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Seating
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Table service
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Bar onsite
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Gender-neutral restroom
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Restroom
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Wi-Fi
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Free Wi-Fi
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Casual
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Cozy
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Quiet
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Romantic
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Trendy
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,College students
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Family-friendly
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Groups
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,LGBTQ+ friendly
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Tourists
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Transgender safespace
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Dinner reservations recommended
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Accepts reservations
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Credit cards
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Debit cards
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,NFC mobile payments
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Credit cards
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Free street parking
+Nhà Hàng Hoàng,"54 P. Hàng Buồm, Hàng Buồm, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 949 814 805,4.9,24319,Dogs allowed outside
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Wheelchair accessible restroom
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Delivery
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Onsite services
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Takeout
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Dine-in
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Great coffee
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Great dessert
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Great tea selection
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Breakfast
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Lunch
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Solo dining
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Good for working on laptop
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Alcohol
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Coffee
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Quick bite
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Breakfast
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Brunch
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Lunch
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Dessert
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Bar onsite
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Restroom
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Wi-Fi
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Free Wi-Fi
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Casual
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Cozy
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Trendy
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,College students
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Groups
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Tourists
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Credit cards
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Debit cards
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,NFC mobile payments
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Credit cards
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Good for kids
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Free parking lot
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Free street parking
+Starbucks Reserve Nhà Thờ,"6 P. Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",21.0141317,105.8017321,+84 24 3832 5678,4.4,3185,Usually plenty of parking
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Wheelchair accessible restroom
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Outdoor seating
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,No-contact delivery
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Delivery
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Takeout
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Dine-in
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Great coffee
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Great dessert
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Great tea selection
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Solo dining
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Good for working on laptop
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Alcohol
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Cocktails
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Coffee
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Quick bite
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Wine
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Breakfast
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Brunch
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Catering
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Dessert
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Seating
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Table service
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Restroom
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Casual
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Cozy
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Quiet
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Romantic
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Trendy
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Upscale
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,College students
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Groups
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Tourists
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Credit cards
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Debit cards
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,NFC mobile payments
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Good for kids
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Free parking lot
+Starbucks Reserve,"6A P. Quang Trung, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội 110000, Vietnam",21.0141317,105.8017321,+84 24 3202 0324,4.6,765,Usually plenty of parking
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,No-contact delivery
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Delivery
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Takeout
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Dine-in
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Great coffee
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Great dessert
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Great tea selection
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Solo dining
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Good for working on laptop
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Coffee
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Quick bite
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Breakfast
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Catering
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Dessert
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Seating
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Restroom
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Casual
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Cozy
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Romantic
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Trendy
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,College students
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Groups
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Tourists
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Credit cards
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Debit cards
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,NFC mobile payments
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Credit cards
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Good for kids
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,High chairs
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Free parking lot
+Starbucks – Nguyen Huu Huan,"32 -34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 3601,4.6,576,Usually plenty of parking
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Outdoor seating
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Delivery
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Takeout
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Dine-in
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Great coffee
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Great dessert
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Great tea selection
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Good for working on laptop
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Coffee
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Quick bite
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Breakfast
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Brunch
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Lunch
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Dinner
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Catering
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Dessert
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Seating
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Restroom
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Wi-Fi
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Free Wi-Fi
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Casual
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Cozy
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Romantic
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Trendy
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Upscale
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,College students
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Family-friendly
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Groups
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Tourists
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Credit cards
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Debit cards
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,NFC mobile payments
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Credit cards
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Good for kids
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Free parking lot
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Paid parking lot
+Starbucks Pacific Place,"R105, Tầng 1 Pacific Place số, 83B P. Lý Thường Kiệt, Hoàn Kiếm, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3201 2793,4.5,672,Usually plenty of parking
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Wheelchair accessible seating
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Outdoor seating
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,No-contact delivery
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Delivery
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Takeout
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Dine-in
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Great coffee
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Great dessert
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Great tea selection
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Good for working on laptop
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Alcohol
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Coffee
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Quick bite
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Breakfast
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Brunch
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Lunch
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Catering
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Dessert
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Seating
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Bar onsite
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Restroom
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Wi-Fi
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Free Wi-Fi
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Casual
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Cozy
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Romantic
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Trendy
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,College students
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Family-friendly
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Groups
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Tourists
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Credit cards
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Debit cards
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,NFC mobile payments
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Credit cards
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Good for kids
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Free parking lot
+Starbucks Ba Trieu,"314 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội 100000, Vietnam",21.0141317,105.8017321,+84 24 3978 1817,4.3,1483,Usually plenty of parking
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,No-contact delivery
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Delivery
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Takeout
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Dine-in
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Great coffee
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Great dessert
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Great tea selection
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Good for working on laptop
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Coffee
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Quick bite
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Breakfast
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Dessert
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Restroom
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Casual
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Cozy
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,College students
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Groups
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Tourists
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Credit cards
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Debit cards
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,NFC mobile payments
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Free parking lot
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Usually plenty of parking
+Starbucks – Viet Tower,"P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội 11515, Vietnam",21.0141317,105.8017321,+84 24 3201 3813,4.7,175,Valet parking
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Wheelchair accessible restroom
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Outdoor seating
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,No-contact delivery
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Delivery
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Takeout
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Dine-in
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Great coffee
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Great dessert
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Great tea selection
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Good for working on laptop
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Coffee
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Quick bite
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Breakfast
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Brunch
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Catering
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Dessert
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Seating
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Restroom
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Casual
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Cozy
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Trendy
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Groups
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Tourists
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Credit cards
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Debit cards
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,NFC mobile payments
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Good for kids
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Free parking lot
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Free street parking
+Starbucks The Legend,"109 Đ. Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội 100000, Vietnam",20.9996446,105.7658636,+84 24 7303 6566,4.3,556,Usually plenty of parking
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Wheelchair accessible restroom
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Outdoor seating
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Delivery
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Takeout
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Dine-in
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Great coffee
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Great dessert
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Good for working on laptop
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Coffee
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Quick bite
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Breakfast
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Dessert
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Seating
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Restroom
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Casual
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Cozy
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Trendy
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Groups
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Tourists
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Credit cards
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Debit cards
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,NFC mobile payments
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Paid parking lot
+Starbucks Hang Dieu,"54 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội 12100, Vietnam",21.0327743,105.8107554,+84 24 3201 3803,4.8,904,Paid street parking
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,No-contact delivery
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Delivery
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Takeout
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Dine-in
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Great coffee
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Great dessert
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Good for working on laptop
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Coffee
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Breakfast
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Dessert
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Casual
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Cozy
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Credit cards
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Debit cards
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,NFC mobile payments
+Starbucks Bưu Điện Hà Nội,"Toà Nhà Bưu Điện, 87 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội 000084, Vietnam",21.0327743,105.8107554,+84 24 3201 3760,4.7,428,Paid parking lot
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Wheelchair accessible restroom
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Wheelchair accessible seating
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Delivery
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Takeout
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Dine-in
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Great coffee
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Great dessert
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Great tea selection
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Good for working on laptop
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Coffee
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Quick bite
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Breakfast
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Catering
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Dessert
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Restroom
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Casual
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Cozy
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Groups
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Tourists
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Credit cards
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Debit cards
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,NFC mobile payments
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Credit cards
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Good for kids
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Paid parking lot
+Starbucks Lotte Liễu Giai,"54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Vietnam",21.0319956,105.7763573,+84 24 3205 7024,4.3,352,Usually plenty of parking
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Wheelchair accessible restroom
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Outdoor seating
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Onsite services
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Takeout
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Dine-in
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Great coffee
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Great dessert
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Great tea selection
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Good for working on laptop
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Coffee
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Quick bite
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Breakfast
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Catering
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Dessert
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Seating
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Restroom
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Casual
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Cozy
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Trendy
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Groups
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Tourists
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Credit cards
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Debit cards
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,NFC mobile payments
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Good for kids
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Free parking lot
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Paid parking lot
+Starbucks Vincom Phạm Ngọc Thạch,"2 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam",21.0062762,105.7958662,+84 24 3637 4374,4.3,1267,Usually plenty of parking
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Wheelchair accessible entrance
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Wheelchair accessible parking lot
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Wheelchair accessible restroom
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Wheelchair accessible seating
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,No-contact delivery
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Delivery
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Takeout
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Dine-in
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Great coffee
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Great dessert
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Great tea selection
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Solo dining
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Good for working on laptop
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Coffee
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Quick bite
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Breakfast
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Brunch
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Lunch
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Dessert
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Restroom
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Casual
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Cozy
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Trendy
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,College students
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Groups
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Tourists
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Credit cards
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Debit cards
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,NFC mobile payments
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Good for kids
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Paid parking garage
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Paid parking lot
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Usually plenty of parking
+Starbucks Vincom Metropolis,"Vincom Center, TTTM, 29 P. Liễu Giai, Ba Đình, Hà Nội 100000, Vietnam",21.031105,105.778858,+84 24 3200 4433,4.6,1060,Valet parking
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,No-contact delivery
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Delivery
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Takeout
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Dine-in
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Great coffee
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Great dessert
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Great tea selection
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Good for working on laptop
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Coffee
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Quick bite
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Breakfast
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Dessert
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Casual
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Cozy
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,College students
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Groups
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Tourists
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Credit cards
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,Debit cards
+Starbucks Diamond Plaza,"25 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 11415, Vietnam",21.031105,105.778858,+84 24 3201 3800,4.8,138,NFC mobile payments
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Takeout
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Dine-in
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Great coffee
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Great dessert
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Great tea selection
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Good for working on laptop
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Coffee
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Breakfast
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Dessert
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Restroom
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Casual
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Cozy
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Groups
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Credit cards
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,Debit cards
+Starbucks Charmvit Tower,"117 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 3968 2929,4.8,87,NFC mobile payments
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Wheelchair accessible restroom
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Outdoor seating
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Delivery
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Takeout
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Dine-in
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Great coffee
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Great dessert
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Great tea selection
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Solo dining
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Good for working on laptop
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Coffee
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Quick bite
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Breakfast
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Brunch
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Dessert
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Seating
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Restroom
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Casual
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Cozy
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Trendy
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,College students
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Groups
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Tourists
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Credit cards
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Debit cards
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,NFC mobile payments
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Good for kids
+Starbucks Coffee Vincom Tran Duy Hung,"Vincom Center, 119 Đ. Trần Duy Hưng, Trung Hoà, Quận Cầu, Hà Nội 100000, Vietnam",21.0077594,105.7611521,+84 24 7305 5884,4.2,570,Usually plenty of parking
+Starbucks Fine Art Museum,"66 P. Nguyễn Thái Học, Điện Biên, Ba Đình, Hà Nội, Vietnam",21.0303773,105.8007044,+84 24 3203 2014,4.0,41,Coffee
+Starbucks Fine Art Museum,"66 P. Nguyễn Thái Học, Điện Biên, Ba Đình, Hà Nội, Vietnam",21.0303773,105.8007044,+84 24 3203 2014,4.0,41,Breakfast
+Starbucks Fine Art Museum,"66 P. Nguyễn Thái Học, Điện Biên, Ba Đình, Hà Nội, Vietnam",21.0303773,105.8007044,+84 24 3203 2014,4.0,41,Credit cards
+Starbucks Fine Art Museum,"66 P. Nguyễn Thái Học, Điện Biên, Ba Đình, Hà Nội, Vietnam",21.0303773,105.8007044,+84 24 3203 2014,4.0,41,Debit cards
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Wheelchair accessible restroom
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Outdoor seating
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,No-contact delivery
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Delivery
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Takeout
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Dine-in
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Great coffee
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Great dessert
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Great tea selection
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Good for working on laptop
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Coffee
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Quick bite
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Breakfast
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Brunch
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Catering
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Dessert
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Seating
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Restroom
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Casual
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Cozy
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,College students
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Groups
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Tourists
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Accepts reservations
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Credit cards
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Debit cards
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,NFC mobile payments
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Good for kids
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Paid parking lot
+Starbucks Royal City,"R3 Building, 72A Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội 100000, Vietnam",21.0027913,105.778818,+84 24 6666 4402,4.2,327,Usually plenty of parking
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Wheelchair accessible restroom
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Wheelchair accessible seating
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Outdoor seating
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,No-contact delivery
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Delivery
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Takeout
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Dine-in
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Great coffee
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Great dessert
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Great tea selection
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Breakfast
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Good for working on laptop
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Coffee
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Prepared foods
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Quick bite
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Breakfast
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Brunch
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Lunch
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Dessert
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Seating
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Restroom
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Casual
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Cozy
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Trendy
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,College students
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Groups
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Tourists
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Credit cards
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Debit cards
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,NFC mobile payments
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Free street parking
+Starbucks The Garden,"The Garden, P. Hoàng Trọng Mậu, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam",21.0146504,105.7412671,+84 24 3395 3333,4.3,1312,Usually plenty of parking
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Wheelchair accessible restroom
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Delivery
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Takeout
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Dine-in
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Great coffee
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Great dessert
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Great tea selection
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Good for working on laptop
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Coffee
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Quick bite
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Breakfast
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Brunch
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Dessert
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Restroom
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Casual
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Cozy
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Trendy
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Groups
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Tourists
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Credit cards
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Debit cards
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,NFC mobile payments
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Good for kids
+Starbucks Vinmec Hà Nội,"Bệnh viện Đa khoa Quốc tế Vinmec, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam",20.9938398,105.8313002,+84 24 3625 2254,4.3,292,Paid parking lot
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Wheelchair accessible restroom
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,No-contact delivery
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Delivery
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Takeout
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Dine-in
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Great coffee
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Great dessert
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Great tea selection
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Good for working on laptop
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Coffee
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Quick bite
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Breakfast
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Brunch
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Lunch
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Dinner
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Catering
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Dessert
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Seating
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Restroom
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Wi-Fi
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Free Wi-Fi
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Casual
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Cozy
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Trendy
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Family-friendly
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Groups
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Tourists
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Credit cards
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Debit cards
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,NFC mobile payments
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Credit cards
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Free parking lot
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Free street parking
+Starbucks Trung Hoa,"101 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",21.0168112,105.7631442,+84 24 3203 9000,4.4,410,Usually plenty of parking
