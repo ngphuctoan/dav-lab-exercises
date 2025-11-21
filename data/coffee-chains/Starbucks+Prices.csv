@@ -1,0 +1,80 @@
+brand,name,size,price
+Starbucks,Cold Brew,M,65000.0
+Starbucks,Cold Brew,L,75000.0
+Starbucks,Vanilla Sweet Cream Cold Brew,M,70000.0
+Starbucks,Vanilla Sweet Cream Cold Brew,L,80000.0
+Starbucks,Caffè Latte,S,60000.0
+Starbucks,Caffè Latte,M,70000.0
+Starbucks,Caffè Latte,L,80000.0
+Starbucks,Flat White,S,65000.0
+Starbucks,Flat White,M,75000.0
+Starbucks,Flat White,L,85000.0
+Starbucks,Almondmilk Hazelnut Latte,S,70000.0
+Starbucks,Almondmilk Hazelnut Latte,M,80000.0
+Starbucks,Almondmilk Hazelnut Latte,L,90000.0
+Starbucks,Cold Foam Iced Espresso,S,
+Starbucks,Cold Foam Iced Espresso,M,65000.0
+Starbucks,Cold Foam Iced Espresso,L,75000.0
+Starbucks,Caffè Americano,S,50000.0
+Starbucks,Caffè Americano,M,60000.0
+Starbucks,Caffè Americano,L,70000.0
+Starbucks,Asian Dolce Latte,S,65000.0
+Starbucks,Asian Dolce Latte,M,75000.0
+Starbucks,Asian Dolce Latte,L,85000.0
+Starbucks,Espresso,S,40000.0
+Starbucks,Espresso,M,55000.0
+Starbucks,Espresso,L,
+Starbucks,Con Panna/Macchiato,S,50000.0
+Starbucks,Con Panna/Macchiato,M,60000.0
+Starbucks,Con Panna/Macchiato,L,
+Starbucks,Freshly Brewed Coffee,S,45000.0
+Starbucks,Freshly Brewed Coffee,M,55000.0
+Starbucks,Freshly Brewed Coffee,L,65000.0
+Starbucks,Iced Dolce Misto,S,
+Starbucks,Iced Dolce Misto,M,60000.0
+Starbucks,Iced Dolce Misto,L,70000.0
+Starbucks,Coffee,M,80000.0
+Starbucks,Coffee,L,90000.0
+Starbucks,Coffee,XL,100000.0
+Starbucks,Caramel,M,90000.0
+Starbucks,Caramel,L,100000.0
+Starbucks,Caramel,XL,110000.0
+Starbucks,Almondmilk Hazelnut Cream,M,90000.0
+Starbucks,Almondmilk Hazelnut Cream,L,100000.0
+Starbucks,Almondmilk Hazelnut Cream,XL,110000.0
+Starbucks,Java Chip,M,95000.0
+Starbucks,Java Chip,L,105000.0
+Starbucks,Java Chip,XL,115000.0
+Starbucks,Mango Passion Fruit,M,80000.0
+Starbucks,Mango Passion Fruit,L,90000.0
+Starbucks,Mango Passion Fruit,XL,100000.0
+Starbucks,Matcha & Espresso Fusion (Hot or Iced),S,65000.0
+Starbucks,Matcha & Espresso Fusion (Hot or Iced),M,75000.0
+Starbucks,Matcha & Espresso Fusion (Hot or Iced),L,85000.0
+Starbucks,Black Tea with Ruby Grapefruit & Honey (Hot or Iced),S,60000.0
+Starbucks,Black Tea with Ruby Grapefruit & Honey (Hot or Iced),M,70000.0
+Starbucks,Black Tea with Ruby Grapefruit & Honey (Hot or Iced),L,80000.0
+Starbucks,Iced Shaken Hibiscus Tea with Pomegranate Pearls,S,
+Starbucks,Iced Shaken Hibiscus Tea with Pomegranate Pearls,M,70000.0
+Starbucks,Iced Shaken Hibiscus Tea with Pomegranate Pearls,L,80000.0
+Starbucks,Chai - Green - Earl Grey,S,60000.0
+Starbucks,Chai - Green - Earl Grey,M,70000.0
+Starbucks,Chai - Green - Earl Grey,L,80000.0
+Starbucks,Iced Shaken Lemon Tea (Black - Green - Hibiscus),S,
+Starbucks,Iced Shaken Lemon Tea (Black - Green - Hibiscus),M,65000.0
+Starbucks,Iced Shaken Lemon Tea (Black - Green - Hibiscus),L,75000.0
+Starbucks,"Black Tea (Earl Grey, English Breakfast, Golden Monkey)",S,45000.0
+Starbucks,"Black Tea (Earl Grey, English Breakfast, Golden Monkey)",M,55000.0
+Starbucks,"Black Tea (Earl Grey, English Breakfast, Golden Monkey)",L,65000.0
+Starbucks,"Green & White Tea (Teavana Emperor's Cloud & Mist™, Mint Citrus, Zen Clouds Oolong)",S,45000.0
+Starbucks,"Green & White Tea (Teavana Emperor's Cloud & Mist™, Mint Citrus, Zen Clouds Oolong)",M,55000.0
+Starbucks,"Green & White Tea (Teavana Emperor's Cloud & Mist™, Mint Citrus, Zen Clouds Oolong)",L,65000.0
+Starbucks,"Caffeine-Free Herbal Tea (Hibiscus, Chamomile)",S,45000.0
+Starbucks,"Caffeine-Free Herbal Tea (Hibiscus, Chamomile)",M,55000.0
+Starbucks,"Caffeine-Free Herbal Tea (Hibiscus, Chamomile)",L,65000.0
+Starbucks,Signature Hot Chocolate,S,60000.0
+Starbucks,Signature Hot Chocolate,M,70000.0
+Starbucks,Signature Hot Chocolate,L,80000.0
+Starbucks,Steamed Milk/Soy Milk,S,30000.0
+Starbucks,Steamed Milk/Soy Milk,M,40000.0
+Starbucks,Steamed Milk/Soy Milk,L,50000.0
