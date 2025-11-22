@@ -12,8 +12,6 @@ A collection of lab exercises exploring statistics, hypothesis testing, regressi
 * [Lab07: Hypothesis Testing](notebooks/07_hypothesis_testing.ipynb)
 * [Lab08: Multiple Linear Regression](notebooks/08_multiple_linear_regression.ipynb)
 
----
-
 ## Table of Contents
 
 1. [Installation](#installation)
